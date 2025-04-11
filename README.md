@@ -1,1 +1,1 @@
-# 3D-Pose-Guided-Human-Image-Synthesis-A-Hierarchical-Diffusion-Approach
+We plan to organize and open-source the code, ideally around the time of the paper’s final publication.
